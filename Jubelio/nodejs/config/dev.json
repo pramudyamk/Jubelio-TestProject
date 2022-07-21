@@ -1,0 +1,15 @@
+{
+    "port": "3001",
+    "hostname": "localhost",
+    "NODE_ENV": "dev", 
+    "api_key": "secret-key",
+
+    "pqsql_user": "postgres",
+    "pqsql_host": "localhost",
+    "pqsql_database": "JubelioElevania",
+    "pqsql_password": "password0!",
+    "pqsql_port": 5432,
+
+    "elevenia_url": "http://api.elevenia.co.id",
+    "elevenia_api_key": "721407f393e84a28593374cc2b347a98"
+}
